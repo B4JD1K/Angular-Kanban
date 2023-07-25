@@ -77,7 +77,7 @@
   }
 }
 
-.tasks-containter {
+.tasks-container {
   flex-grow: 1;
 }
 
@@ -110,5 +110,5 @@
   transition: transform 250ms cubic-bezier(0, 0, 0.2, 1);
 }
 
-.tasks-containter.cdk-drop-list-dragging .task:not(.cdk-drag-placeholder) {
+.tasks-container.cdk-drop-list-dragging .task:not(.cdk-drag-placeholder) {
 }
